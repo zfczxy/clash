@@ -1,9 +1,8 @@
-geosite,wise
-geosite,wisekey
-geosite,paypal
-geosite,paypal@cn
-geosite,ifast
-geosite,ifast@cn
-geosite,binance
-acl,Binance
-geosite,schwab
+GEOSITE,wise
+GEOSITE,wisekey
+GEOSITE,paypal
+GEOSITE,paypal@cn
+GEOSITE,ifast
+GEOSITE,ifast@cn
+GEOSITE,binance
+GEOSITE,schwab
