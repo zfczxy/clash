@@ -1,0 +1,10 @@
+rules:
+  - GEOSITE,wise,你的策略组
+  - GEOSITE,wisekey,你的策略组
+  - GEOSITE,paypal,你的策略组
+  - GEOSITE,paypal@cn,你的策略组
+  - GEOSITE,ifast,你的策略组
+  - GEOSITE,ifast@cn,你的策略组
+  - GEOSITE,binance,你的策略组
+  - GEOSITE,schwab,你的策略组
+  - MATCH,兜底策略组
